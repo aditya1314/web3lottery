@@ -1,0 +1,28 @@
+.App {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  height: 100%;
+  width: 100%;
+  background-color: rgb(50, 69, 78);
+}
+
+
+.container {
+  display: flex;
+  flex-direction: row;
+}
+
+.left-section {
+  flex: 1;
+  padding: 20px;
+}
+
+.right-section {
+  flex: 1;
+  padding: 20px;
+}
+
+.headings{
+  color: white;
+}
